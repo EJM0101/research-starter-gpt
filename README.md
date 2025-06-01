@@ -24,7 +24,7 @@ Cette application est basée sur la première étape fondamentale de la méthodo
 ## ⚙️ Installation et déploiement
 1. Clonez le repo :
 ```bash
-git clone https://github.com//research-starter-gpt.git
+git clone https://github.com/EJM0101/research-starter-gpt.git
 cd researchstarter
 ```
 
